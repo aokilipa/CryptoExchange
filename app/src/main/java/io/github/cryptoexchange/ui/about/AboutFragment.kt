@@ -1,4 +1,4 @@
-package io.github.cryptoexchange
+package io.github.cryptoexchange.ui.about
 
 import android.content.Context
 import android.net.Uri
@@ -7,6 +7,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import io.github.cryptoexchange.R
 
 
 // TODO: Rename parameter arguments, choose names that match

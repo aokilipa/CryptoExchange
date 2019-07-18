@@ -39,4 +39,10 @@ dependencies {
     //navigation libraries
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version_ktx"
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version_ktx"
+
+    //timber for logging
+    implementation 'com.jakewharton.timber:timber:' + rootProject.timber
+
+    //volley
+    implementation 'com.android.volley:volley:' + rootProject.volley_version
 }

@@ -1,7 +1,8 @@
-package io.github.cryptoexchange
+package io.github.cryptoexchange.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import io.github.cryptoexchange.R
 import io.github.cryptoexchange.ui.home.HomeFragment
 
 class MainActivity : AppCompatActivity() {
