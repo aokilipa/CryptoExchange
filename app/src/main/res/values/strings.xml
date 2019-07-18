@@ -6,4 +6,5 @@
     <string name="logo">Logo</string>
     <string name="title">Title</string>
     <string name="subhead">SubHead</string>
+    <string name="coin_list">Coin List</string>
 </resources>
